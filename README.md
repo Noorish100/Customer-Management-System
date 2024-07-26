@@ -69,8 +69,6 @@ spring.datasource.password=yourpassword
     <img src="images/add_customer.png" alt="Add Customer" style="max-width:100%; height:auto;">
     <h3>Edit Customer</h3>
     <img src="images/edit_customer.png" alt="Edit Customer" style="max-width:100%; height:auto;">
-    <h3>Login</h3>
-    <img src="images/login.png" alt="Login" style="max-width:100%; height:auto;">
     <h3>Signup</h3>
     <img src="images/signup.png" alt="Signup" style="max-width:100%; height:auto;">
     <h2>Contact</h2>
