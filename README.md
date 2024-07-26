@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Customer Management Application</title>
-</head>
+
+    
+
 <body>
     <h1>Customer Management Application</h1>
     <p>This is a simple CRUD application for managing customers. The application is built using MySQL for the database, Spring Boot for the backend, and HTML/CSS/JavaScript for the frontend. It also includes JWT authentication and a sync feature to fetch customer data from an external API.</p>
@@ -51,7 +51,7 @@ spring.datasource.password=yourpassword
         <pre><code>mvn spring-boot:run</code></pre>
     </ol>
     <h2>Usage</h2>
-    <p>Once the application is running, you can access it at <code>http://localhost:8080</code>.</p>
+    <p>Once the application is running, you can access it at <code>http://localhost:8812</code>.</p>
     <p>Login with your credentials or sign up to create a new account. Use the navigation menu to access different features of the application.</p>
     <h2>Endpoints</h2>
     <ul>
@@ -61,11 +61,7 @@ spring.datasource.password=yourpassword
         <li><code>/customers/delete/{id}</code> - Delete a customer</li>
         <li><code>/api/customers/sync</code> - Sync customer data from an external API</li>
     </ul>
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-    <h2>Contributing</h2>
-    <p>Contributions are welcome! Please fork the repository and submit a pull request with your changes.</p>
     <h2>Contact</h2>
-    <p>If you have any questions or suggestions, feel free to contact me at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+    <p>If you have any questions or suggestions, feel free to contact me at <a href="mailto:mdnoorishnauman@gmail.com">your-email@example.com</a>.</p>
 </body>
 </html>
