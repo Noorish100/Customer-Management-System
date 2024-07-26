@@ -55,6 +55,8 @@ spring.datasource.password=yourpassword
     <p>Login with your credentials or sign up to create a new account. Use the navigation menu to access different features of the application.</p>
     <h2>Endpoints</h2>
     <ul>
+           <li><code>auth/signup</code> - View the list of customers</li>
+           <li><code>auth/login</code> - View the list of customers</li>
         <li><code>/customers</code> - View the list of customers</li>
         <li><code>/customers/new</code> - Add a new customer</li>
         <li><code>/customers/edit/{id}</code> - Edit a customer</li>
