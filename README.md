@@ -61,6 +61,18 @@ spring.datasource.password=yourpassword
         <li><code>/customers/delete/{id}</code> - Delete a customer</li>
         <li><code>/api/customers/sync</code> - Sync customer data from an external API</li>
     </ul>
+    <h2>Screenshots</h2>
+    <p>Below are some screenshots of the application:</p>
+    <h3>Customer List</h3>
+    <img src="images/customer_list.png" alt="Customer List" style="max-width:100%; height:auto;">
+    <h3>Add Customer</h3>
+    <img src="images/add_customer.png" alt="Add Customer" style="max-width:100%; height:auto;">
+    <h3>Edit Customer</h3>
+    <img src="images/edit_customer.png" alt="Edit Customer" style="max-width:100%; height:auto;">
+    <h3>Login</h3>
+    <img src="images/login.png" alt="Login" style="max-width:100%; height:auto;">
+    <h3>Signup</h3>
+    <img src="images/signup.png" alt="Signup" style="max-width:100%; height:auto;">
     <h2>Contact</h2>
     <p>If you have any questions or suggestions, feel free to contact me at <a href="mailto:mdnoorishnauman@gmail.com">your-email@example.com</a>.</p>
 </body>
