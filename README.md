@@ -5,7 +5,7 @@
 
 <body>
     <h1>Customer Management Application</h1>
-    <p>This is a simple CRUD application for managing customers. The application is built using MySQL for the database, Spring Boot for the backend, and HTML/CSS/JavaScript for the frontend. It also includes JWT authentication and a sync feature to fetch customer data from an external API.</p>
+    <p>This is a CRUD application for managing customers. The application is built using MySQL for the database, Spring Boot for the backend, and HTML/CSS/JavaScript for the frontend. It also includes JWT authentication and a sync feature to fetch customer data from an external API.</p>
     <h2>Features</h2>
     <ul>
         <li>View a list of customers</li>
