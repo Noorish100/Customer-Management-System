@@ -74,6 +74,6 @@ spring.datasource.password=yourpassword
     <h3>Signup</h3>
     <img src="images/signup.png" alt="Signup" style="max-width:100%; height:auto;">
     <h2>Contact</h2>
-    <p>If you have any questions or suggestions, feel free to contact me at <a href="mailto:mdnoorishnauman@gmail.com">your-email@example.com</a>.</p>
+    <p>If you have any questions or suggestions, feel free to contact me at <a href="mailto:mdnoorishnauman@gmail.com">mdnoorishnauman@gmail.com</a>.</p>
 </body>
 </html>
